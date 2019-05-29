@@ -1,0 +1,26 @@
+img
+ {
+        width:100%;
+      }
+
+ .img-thumbnail
+ {
+ 	padding: 0%;
+ }
+
+ .caption-full
+ {
+ 	padding: 9px;
+ }
+
+ #form-delete
+ {
+ 	display:inline;
+ }
+
+ #comment-delete
+ {
+ 	display:inline;
+ }
+
+ 
